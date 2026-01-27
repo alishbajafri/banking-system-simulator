@@ -1,0 +1,3 @@
+npx expo start -c
+ ./mvnw spring-boot:run
+ 
